@@ -1,0 +1,3 @@
+# app-ads.txt for HarMar Games (https://manucharyanmarine.github.io/app-ads.txt)
+# Replace these comment lines with the exact lines from the LevelPlay dashboard
+# (LevelPlay -> app-ads.txt). Ad networks read this file to confirm they may sell ads in our apps.
